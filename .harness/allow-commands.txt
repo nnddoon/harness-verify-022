@@ -1,0 +1,4 @@
+# 由 harness init 生成（检测到：python）。可以随时改；重跑 init 不会覆盖。
+# 这些命令不再弹权限确认（每行一个正则）。危险命令仍会被护栏 hook 拦下。
+^python3 -m (pytest|py_compile)\b
+^pytest\b

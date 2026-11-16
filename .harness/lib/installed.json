@@ -1,0 +1,20 @@
+{
+ ".claude/rules/harness-guardrails.md": "34f3bf16ef0887554d21d3fdd66a94cd540265bf7fdc663868fc6deb02b179cf",
+ ".claude/rules/human-gates.md": "1cccabf946af9be4a0c63997faa7b95ee4d3558273c8632d9b1218cdc30977ab",
+ ".claude/rules/lessons.md": "6b7370e957cc82bb72af5bdddb5f337153ac814893f0b067458bf5adf14bb909",
+ ".harness/allow-commands.txt": "9e0eafb793ef4ffd63ce13c6564c23efff3949ae36e31425a205d8ecc1c5d446",
+ ".harness/backlog.md": "10b13541437c4ff2e5bb0e9a0e6d10f18a1f97702c622a7bac72f29bd0edaa80",
+ ".harness/decisions.md": "ba5ba34234f9039f0866e171a5e572da5518c34f6dded44a506f91f4ce233e58",
+ ".harness/gates/_TEMPLATE.md": "ed2f2997ef39a5c55677427d485010c601ce452ff91341fd65cbaf47684ddb86",
+ ".harness/handoffs/_TEMPLATE.md": "c7c7a0b0aa6baf7cf237a6c70cba3227bd1e205dcb50f80df5652a931944002d",
+ ".harness/locks.txt": "081cad21b4c516447a5589ccba78f91426ac43b5e7b5169598dc781094e2bc38",
+ ".harness/quick-check.sh": "18880bd05ed8c1563e8f140708c9674b354d3ebdc2a87c22e73304ebf3fb1215",
+ ".harness/sources.md": "ab21350f3975de76450ac54d87a9af032c8036dff0692c1670c135050d3f1560",
+ ".harness/tasks/_TEMPLATE.md": "87e7b3877b9d4a50db8934a8afe2224b63cfba9070d076df837ee9ff209afa80",
+ ".harness/test-paths.txt": "a764d0c9899275f61166dfd06903b151c46e3ed6f736a544301e2fea7551bc88",
+ "CLAUDE.md": "c14cf1d209e48266e7f5536027f3882a858a015fa2c40709e3435fd64d2e9cf7",
+ "scripts/gate-sync.sh": "d17f49772f9179575c372bb4b881845b3fe3476fe0594941299e8ed3ea0753bd",
+ "scripts/gates.sh": "e49fa2605fe735daf2a8bdd9fd8add4459544385b315e2aece5371e6824cc4c5",
+ "scripts/harness-loop.sh": "f806c925f49452ae879098aab82e84ddc70fda2bdb889c6672798ba0f308b437",
+ "scripts/new-task.sh": "a4e535343dc9dafd4b06f401ff9f4f8a88e94b1b88034b112e5d01ae33075be3"
+}
