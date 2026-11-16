@@ -11,6 +11,7 @@
 - T-001 | proposed | P1 | 示例：播放器倍速切换 | deps: - | auto_ok: no | owner: -
 - T-002 | blocked | P2 | README 末尾加一行 nightly loop 重测标记 | deps: - | auto_ok: yes | owner: linxiutong@linxiutongdeMacBook-Air
 - T-003 | blocked | P2 | README 末尾加一行 nightly loop 重测标记（第 2 轮） | deps: - | auto_ok: yes | owner: linxiutong@linxiutongdeMacBook-Air
+- T-004 | ready | P2 | README 末尾加一行 nightly loop 重测标记（第 3 轮） | deps: - | auto_ok: yes | owner: -
 
 ## AI 提议区（/harness:backlog-groom 写入，需批准；auto_ok: yes 的可自动转 ready）
 
