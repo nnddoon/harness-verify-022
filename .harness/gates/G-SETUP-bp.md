@@ -16,7 +16,7 @@ then:
 then_policy:
 then_rules: []
 pr:
-issue:
+issue: 6
 ---
 
 # G-SETUP-bp 在 GitHub 上给 nnddoon/harness-verify-022 的 main 开分支保护吗？
