@@ -1,7 +1,7 @@
 ---
 id: T-004
 title: README 末尾加一行 nightly loop 重测标记（第 3 轮）
-status: ready              # proposed | ready | claimed | in_progress | waiting_human | blocked | review | done
+status: claimed              # proposed | ready | claimed | in_progress | waiting_human | blocked | review | done
 priority: P2
 risk: low
 size: S
